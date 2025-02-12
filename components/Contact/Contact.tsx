@@ -5,7 +5,7 @@ import { FaWhatsapp } from "react-icons/fa";
 const ContactSection = () => {
 
   return (
-    <section className="bg-gradient-to-b from-white to-beige py-16 px-4">
+    <section className="bg-gradient-to-b from-white to-beige py-16 px-4" id="contact">
       <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-12">
         {/* Contact Form */}
         <div className="bg-turquoise rounded-xl p-8 text-center shadow-lg">
