@@ -3,12 +3,12 @@ import React, { useState, useEffect } from "react";
 
 const destinations = [
   "East Africa",
-  "Kisumu, Kenya",
-  "Masaai Mara, Kenya",
-  "Mombasa, Kenya",
-  "Nairobi, Kenya",
+  "Kisumu",
+  "Masaai Mara",
+  "Mombasa",
+  "Nairobi",
   "Mwanza, Tanzania",
-  "Dar es Salaam, Tanzania",
+  "Dar, Tanzania",
   "Kigali, Rwanda",
   "Kinshasa, DRC",
   "Kampala, Uganda",
@@ -17,7 +17,7 @@ const destinations = [
   "Central Africa",
   "Chad",
   "Southern Africa",
-  "Maputo, Mozambique",
+  "Mozambique",
   "Zambia",
   "Mali",
   
