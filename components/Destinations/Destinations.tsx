@@ -13,7 +13,7 @@ const destinations = [
   "Kinshasa, DRC",
   "Kampala, Uganda",
   "Khartoum, Sudan",
-  "Juba, Sudan",
+  "S.Sudan, Juba",
   "Central Africa",
   "Chad",
   "Southern Africa",
